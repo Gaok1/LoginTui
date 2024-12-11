@@ -1,0 +1,10 @@
+[package]
+name = "void"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.4"
+crossterm = "0.28.1"
+ratatui = "0.29"
+figlet-rs = "0.1.5"
